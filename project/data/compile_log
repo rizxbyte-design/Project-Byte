@@ -1,0 +1,7 @@
+----------
+1. ERROR in /storage/emulated/0/.sketchware/mysc/651/app/src/main/java/com/android/rizxbyte/MainActivity.java (at line 929)
+	if (!Protector.check(this) || !NativeLib.check(this)) {
+	                                         ^^^^^
+The method check(MainActivity) is undefined for the type NativeLib
+----------
+1 problem (1 error)
